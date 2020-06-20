@@ -73,12 +73,11 @@ How to **evaluate** the solution of the problems and **improve** the product.
 
 How to **transform** ideas into sketch, prototypes and products. **Usability** and utility.
 
-* Rabisco frame
-* Prototipos
-* Usabilidade
-* Wireframes
-* Biblioteca de padrões
-* Design colaborativo
+* [Sketch](https://www.smashingmagazine.com/2011/12/the-messy-art-of-ux-sketching/)
+* [Prototypes](https://uxplanet.org/basics-of-prototyping-1a4106e12c0e)
+* [Wireframes](https://medium.com/nyc-design/wireframing-f7ce9ee4e703)
+* [Style Guides](https://uxdesign.cc/all-you-need-to-know-about-style-guide-9513ebf50b46)
+* [Usability](https://medium.com/@ishan02016/role-of-usability-in-ux-design-d073a9295668)
 
 ### 6. Success Metrics
 
@@ -103,10 +102,10 @@ How to launch the **MPV**. **Learn fast** and succeed.
 
 #### More interesting tools
 
-(ideas)
+(strategy)
 * [FlowMapp](https://www.flowmapp.com/) Full stack UX platform.
-* [Marvel](https://marvelapp.com/) Rapid prototyping, testing and handoff.
-* [inVision](https://www.invisionapp.com/) Create rich interactive prototypes.
+
+(ideas)
 * [MoodBoard](http://www.gomoodboard.com/) Build beautiful, simple, free moodboards.
   
 (planning)
@@ -114,8 +113,22 @@ How to launch the **MPV**. **Learn fast** and succeed.
 
 (validation)
 * [Unbonce](https://unbounce.com/) Design Beautiful Landing Pages.
-* [Klickpages](https://klickpages.com.br/)Ferramenta para criar landing pages.
+* [Klickpages](https://klickpages.com.br/) Ferramenta para criar landing pages.
 * [OptimalSort](https://www.optimalworkshop.com/optimalsort/) Discover how people categorize information.
+
+(design)
+* [Axure](https://www.axure.com/) Powerful Prototyping and Developer.
+* [Marvel](https://marvelapp.com/) Rapid prototyping, testing and handoff.
+* [inVision](https://www.invisionapp.com/) Create rich interactive prototypes.
+* [Framer](https://framer.com) Best prototyping tool for teams.
+* [Flinto](https://www.flinto.com) Create interactive and animated prototypes.
+* [Principle](http://principleformac.com) Design animated and interactive user interfaces.
+* [JustInMind](https://www.justinmind.com) From wireframes to highly interactive prototypes.
+
+#### UX Checklist
+
+* [Checklist Design](https://www.checklist.design/) A collection of the best UX and UI practices.
+* [UX Project Checklist](https://uxchecklist.github.io/) Methods and methodologies, activities and tools.
 
 #### More interesting links
 

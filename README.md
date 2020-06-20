@@ -115,5 +115,8 @@ How to launch the **MPV**. **Learn fast** and succeed.
 * [Curated list for UI/UX Designers](https://github.com/gregjw/ui-ux)
 * [UX_UI](https://github.com/alexUXUI/UX_UI)
 
+#### Reference
+
+* [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/course/ux-design/)
 ---
 made with 💙 by [mafda](https://mafda.github.io/)

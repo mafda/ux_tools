@@ -83,12 +83,13 @@ How to **transform** ideas into sketch, prototypes and products. **Usability** a
 
 Objectively **evaluate** the results of the product.
 
-* KPIs
-* CTR
-* NPS
-* DAU
-* Baseline
-* HEART
+* [KPI](https://medium.com/@yogeshmithoon/important-kpis-of-ux-design-b817a7f86d80) (Key Performance Metrics)
+* [CTR](https://www.webfx.com/blog/marketing/whats-good-click-rate-ctr-industry/) (Click Through Rate)
+* [NPS](https://uxdesign.cc/what-is-nps-and-why-you-should-know-how-it-works-88690f39b99f) (Net Promoter Score)
+* [DAU](https://medium.com/sequoia-capital/selecting-the-right-user-metric-de95015aa38) (Daily Active Users)
+* [Churn rate](https://www.dtelepathy.com/blog/products/how-to-reduce-churn-with-ux)
+* [LTV](https://medium.com/@ClrMobile/how-to-maximize-the-lifetime-value-of-your-mobile-app-users-b82e0c522f49) (Lifetime Value)
+* [HEART](https://medium.com/@onix_systems/matters-of-the-heart-how-to-measure-ui-and-ux-design-b7f29b77a711) (Happiness, Engagement, Adoption, Retention, Task Success)
   
 ### 7. Launch
 
@@ -115,6 +116,8 @@ How to launch the **MPV**. **Learn fast** and succeed.
 * [Unbonce](https://unbounce.com/) Design Beautiful Landing Pages.
 * [Klickpages](https://klickpages.com.br/) Ferramenta para criar landing pages.
 * [OptimalSort](https://www.optimalworkshop.com/optimalsort/) Discover how people categorize information.
+* [Optimizely](https://www.optimizely.com/) Best-known tool for A/B testing.
+* [SurveyMonkey](https://www.surveymonkey.com/) Send and evaluate surveys quickly and easily.
 
 (design)
 * [Axure](https://www.axure.com/) Powerful Prototyping and Developer.
@@ -124,6 +127,11 @@ How to launch the **MPV**. **Learn fast** and succeed.
 * [Flinto](https://www.flinto.com) Create interactive and animated prototypes.
 * [Principle](http://principleformac.com) Design animated and interactive user interfaces.
 * [JustInMind](https://www.justinmind.com) From wireframes to highly interactive prototypes.
+
+(metrics)
+* [Google Analytics](https://analytics.google.com/analytics/web/) Measure ans track your  sites and applications.
+* [Delighted](https://delighted.com/) Measure and evaluate qualitative metrics.
+* [Hotjar](https://www.hotjar.com/) Website Heatmaps & Behavior Analytics Tools.
 
 #### UX Checklist
 
@@ -135,6 +143,7 @@ How to launch the **MPV**. **Learn fast** and succeed.
 * [UX Design Methods In A Mind Map](https://uxplanet.org/product-design-methods-mind-map-f6511820a7d5)
 * [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
 * [The Basic Principles of UX Design](https://medium.com/@riesdiansyah_64327/the-principles-of-ux-design-561c3a759e79)
+* [How to Choose the Right UX Metrics for Your Product](https://www.dtelepathy.com/ux-metrics/)
 * [Curated list for UI/UX Designers](https://github.com/gregjw/ui-ux)
 * [UX_UI](https://github.com/alexUXUI/UX_UI)
 

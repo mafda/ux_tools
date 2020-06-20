@@ -58,14 +58,16 @@ How to **execute** good ideas.
 How to **evaluate** the solution of the problems and **improve** the product.
 
 * [Heuristic Analysis](https://www.usabilityfirst.com/usability-methods/heuristic-evaluation/)
-* Estudo diario
-* Pesquisa quantitativa
-* Teste A/B
-* Entrevistas Colaborativas
-* Focus Group
-* Card Sorting
-* Analise de Accesibilidade
-* Canais de feedback
+* [Diary Studies](https://medium.com/user-research/user-research-weekly-9-diary-studies-e53d9312b485)
+* [Quantitative and Qualitative Research](https://medium.com/ux-design-web-mobile-virtual-reality/12-ux-research-techniques-quantitative-and-qualitative-1a37bcb1914e)
+* [Landing page](https://medium.com/@distillerytech/how-to-design-an-effective-landing-page-e9bffaccfdc5)
+* [A/B Test](https://medium.com/intent-media-design/the-art-of-the-a-b-test-statistics-101-for-ux-designers-ux-researchers-780229e1e378)
+* [Content audit](https://uxmastery.com/how-to-conduct-a-content-audit/)
+* [Focus Group](https://medium.com/pminsider/how-to-lead-ux-research-focus-groups-8d5cb960ad3e)
+* [Card Sorting](https://medium.com/@yangchen/card-sorting-a-simple-and-effective-ux-research-tool-74befc3ef4ef)
+* [Accessibility analysis](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
+* [User Feedback](https://uxdesign.cc/the-importance-of-user-feedback-20a773908325)
+* [Usability interviews](https://medium.com/@MentallyFriendly/usability-testing-101-939c83ffe565)
 
 ### 5. Interface Design
 
@@ -109,6 +111,11 @@ How to launch the **MPV**. **Learn fast** and succeed.
   
 (planning)
 * [Trello](https://trello.com/) Keep track of everything.
+
+(validation)
+* [Unbonce](https://unbounce.com/) Design Beautiful Landing Pages.
+* [Klickpages](https://klickpages.com.br/)Ferramenta para criar landing pages.
+* [OptimalSort](https://www.optimalworkshop.com/optimalsort/) Discover how people categorize information.
 
 #### More interesting links
 

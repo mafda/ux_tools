@@ -48,17 +48,16 @@ How to **externalize** and **communicate** what you have in mind.
 
 How to **execute** good ideas.
 
-* Historias de usuario
-* Sitemap
-* Project Model Canvas
-* Job Story
-* Analise heuristica
-* Roadmap
+* [User Stories](https://uxdesign.cc/better-stories-with-job-story-3467de354f45)
+* [Roadmap](https://uxdesign.cc/developing-a-product-roadmap-a62bc5f1a15b)
+* [Job Story](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9)
+* [Project Model Canvas](https://medium.com/bigcommerce-developer-blog/using-an-experience-canvas-to-determine-your-next-feature-1e97c7e76388)
 
 ### 4. Validation and Research
 
 How to **evaluate** the solution of the problems and **improve** the product.
 
+* [Heuristic Analysis](https://www.usabilityfirst.com/usability-methods/heuristic-evaluation/)
 * Estudo diario
 * Pesquisa quantitativa
 * Teste A/B
@@ -102,16 +101,20 @@ How to launch the **MPV**. **Learn fast** and succeed.
 
 #### More interesting tools
 
-(geração de ideais)
+(ideas)
 * [FlowMapp](https://www.flowmapp.com/) Full stack UX platform.
 * [Marvel](https://marvelapp.com/) Rapid prototyping, testing and handoff.
 * [inVision](https://www.invisionapp.com/) Create rich interactive prototypes.
 * [MoodBoard](http://www.gomoodboard.com/) Build beautiful, simple, free moodboards.
+  
+(planning)
+* [Trello](https://trello.com/) Keep track of everything.
 
 #### More interesting links
 
 * [UX Design Methods In A Mind Map](https://uxplanet.org/product-design-methods-mind-map-f6511820a7d5)
 * [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
+* [The Basic Principles of UX Design](https://medium.com/@riesdiansyah_64327/the-principles-of-ux-design-561c3a759e79)
 * [Curated list for UI/UX Designers](https://github.com/gregjw/ui-ux)
 * [UX_UI](https://github.com/alexUXUI/UX_UI)
 

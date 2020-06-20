@@ -36,7 +36,7 @@ How to **externalize** and **communicate** what you have in mind.
 
 * [Double Diamond](https://medium.com/design-leadership-notebook/the-new-double-diamond-design-process-7c8f12d7945e)
 * [Storyboard](https://medium.com/thinking-design/the-what-why-when-of-storyboarding-in-ux-design-38db2f955e23)
-* [How might we?](https://medium.com/knowsi/hmw-how-might-we-c04423a4437d)
+* [How Might We?](https://medium.com/knowsi/hmw-how-might-we-c04423a4437d)
 * [Crazy 8's](https://blog.prototypr.io/how-to-run-a-crazy-eights-workshop-60d0a67b29a)
 * [User Flow](https://medium.com/7bits/user-flow-101-what-it-is-how-to-do-it-84052141fe86)
 * [Moodboard](https://www.webdesignerdepot.com/2008/12/why-mood-boards-matter/)
@@ -60,14 +60,14 @@ How to **evaluate** the solution of the problems and **improve** the product.
 * [Heuristic Analysis](https://www.usabilityfirst.com/usability-methods/heuristic-evaluation/)
 * [Diary Studies](https://medium.com/user-research/user-research-weekly-9-diary-studies-e53d9312b485)
 * [Quantitative and Qualitative Research](https://medium.com/ux-design-web-mobile-virtual-reality/12-ux-research-techniques-quantitative-and-qualitative-1a37bcb1914e)
-* [Landing page](https://medium.com/@distillerytech/how-to-design-an-effective-landing-page-e9bffaccfdc5)
+* [Landing Page](https://medium.com/@distillerytech/how-to-design-an-effective-landing-page-e9bffaccfdc5)
 * [A/B Test](https://medium.com/intent-media-design/the-art-of-the-a-b-test-statistics-101-for-ux-designers-ux-researchers-780229e1e378)
-* [Content audit](https://uxmastery.com/how-to-conduct-a-content-audit/)
+* [Content Audit](https://uxmastery.com/how-to-conduct-a-content-audit/)
 * [Focus Group](https://medium.com/pminsider/how-to-lead-ux-research-focus-groups-8d5cb960ad3e)
 * [Card Sorting](https://medium.com/@yangchen/card-sorting-a-simple-and-effective-ux-research-tool-74befc3ef4ef)
-* [Accessibility analysis](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
+* [Accessibility Analysis](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
 * [User Feedback](https://uxdesign.cc/the-importance-of-user-feedback-20a773908325)
-* [Usability interviews](https://medium.com/@MentallyFriendly/usability-testing-101-939c83ffe565)
+* [Usability Interviews](https://medium.com/@MentallyFriendly/usability-testing-101-939c83ffe565)
 
 ### 5. Interface Design
 
@@ -78,6 +78,7 @@ How to **transform** ideas into sketch, prototypes and products. **Usability** a
 * [Wireframes](https://medium.com/nyc-design/wireframing-f7ce9ee4e703)
 * [Style Guides](https://uxdesign.cc/all-you-need-to-know-about-style-guide-9513ebf50b46)
 * [Usability](https://medium.com/@ishan02016/role-of-usability-in-ux-design-d073a9295668)
+* [Pattern Library](https://boagworld.com/design/pattern-library/)
 
 ### 6. Success Metrics
 
@@ -87,19 +88,18 @@ Objectively **evaluate** the results of the product.
 * [CTR](https://www.webfx.com/blog/marketing/whats-good-click-rate-ctr-industry/) (Click Through Rate)
 * [NPS](https://uxdesign.cc/what-is-nps-and-why-you-should-know-how-it-works-88690f39b99f) (Net Promoter Score)
 * [DAU](https://medium.com/sequoia-capital/selecting-the-right-user-metric-de95015aa38) (Daily Active Users)
-* [Churn rate](https://www.dtelepathy.com/blog/products/how-to-reduce-churn-with-ux)
+* [Churn Rate](https://www.dtelepathy.com/blog/products/how-to-reduce-churn-with-ux)
 * [LTV](https://medium.com/@ClrMobile/how-to-maximize-the-lifetime-value-of-your-mobile-app-users-b82e0c522f49) (Lifetime Value)
 * [HEART](https://medium.com/@onix_systems/matters-of-the-heart-how-to-measure-ui-and-ux-design-b7f29b77a711) (Happiness, Engagement, Adoption, Retention, Task Success)
   
 ### 7. Launch
 
-How to launch the **MPV**. **Learn fast** and succeed.
+How to launch the **MVP**. **Learn fast** and succeed.
 
-* Entrevistas
-* Prototipos codificados
-* Concierge
-* Prototipos de baixa fidelidade
-* Prototipos de Alta e media fidelidade
+* [MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) (Minimum Viable Product)
+* [Concierge](https://medium.com/@mrjeremywells/the-design-concierge-d1ca2a415c0e)
+* [Code Prototypes](https://medium.com/@sagarajkt/free-platforms-to-create-prototyping-for-apps-or-web-design-ca70e902f7e2)
+* [Low, Medium, and High Fidelity Prototypes](http://designforuse.net/client-deliverables/how-to-choose-a-ux-prototyping-tool/)
 
 #### More interesting tools
 
@@ -108,9 +108,12 @@ How to launch the **MPV**. **Learn fast** and succeed.
 
 (ideas)
 * [MoodBoard](http://www.gomoodboard.com/) Build beautiful, simple, free moodboards.
+* [Miro](https://miro.com/) Be Creative. Be Productive. From Anywhere.
   
 (planning)
 * [Trello](https://trello.com/) Keep track of everything.
+* [Asana](https://asana.com/) Manage your team's work, projects, & tasks online.
+* [Craft](https://craft.io/) Build intuitive Roadmaps, prioritize features, connect them with your dev teams.
 
 (validation)
 * [Unbonce](https://unbounce.com/) Design Beautiful Landing Pages.
@@ -119,7 +122,12 @@ How to launch the **MPV**. **Learn fast** and succeed.
 * [Optimizely](https://www.optimizely.com/) Best-known tool for A/B testing.
 * [SurveyMonkey](https://www.surveymonkey.com/) Send and evaluate surveys quickly and easily.
 
-(design)
+(metrics)
+* [Google Analytics](https://analytics.google.com/analytics/web/) Measure ans track your  sites and applications.
+* [Delighted](https://delighted.com/) Measure and evaluate qualitative metrics.
+* [Hotjar](https://www.hotjar.com/) Website Heatmaps & Behavior Analytics Tools.
+
+(design and launch)
 * [Axure](https://www.axure.com/) Powerful Prototyping and Developer.
 * [Marvel](https://marvelapp.com/) Rapid prototyping, testing and handoff.
 * [inVision](https://www.invisionapp.com/) Create rich interactive prototypes.
@@ -127,11 +135,6 @@ How to launch the **MPV**. **Learn fast** and succeed.
 * [Flinto](https://www.flinto.com) Create interactive and animated prototypes.
 * [Principle](http://principleformac.com) Design animated and interactive user interfaces.
 * [JustInMind](https://www.justinmind.com) From wireframes to highly interactive prototypes.
-
-(metrics)
-* [Google Analytics](https://analytics.google.com/analytics/web/) Measure ans track your  sites and applications.
-* [Delighted](https://delighted.com/) Measure and evaluate qualitative metrics.
-* [Hotjar](https://www.hotjar.com/) Website Heatmaps & Behavior Analytics Tools.
 
 #### UX Checklist
 

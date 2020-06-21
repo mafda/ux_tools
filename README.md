@@ -1,10 +1,22 @@
-# UX Tools
+# UX - User Experience
 
-## UI/UX
+User Experience - **UX** occurs when the **user** comes into **contact** with a **product**.
 
-## UX
+* How to **listen** to the user and **extract** needs.
+* How to **create** products that people need.
+  
+## Differences between UI and UX
 
-## UI
+|                                                UI                                                |                                                                 UX                                                                  |
+| :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+|                                          User Interface                                          |                                                           User Experience                                                           |
+|                What the user finds and sees when they arrive at a website or app                 |                                      Focuses on what the user perceives of the website or app                                       |
+|      Everything that allows you to interact with the website or app, from buttons to forms       | Focuses on whether the content was useful, whether the navigation was enriching, and whether it was easily manageable and intuitive |
+| Ensures that the website or app looks good and works well on all platforms: mobile, web, tablets |                                     Includes target research, psychology, design and marketing                                      |
+
+## UX Tools
+
+UX tools are important because you have got to have a **wide range of options** to help you create the things you need.
 
 ## UX Tools and Methods
 
@@ -92,7 +104,7 @@ Objectively **evaluate** the results of the product.
 * [LTV](https://medium.com/@ClrMobile/how-to-maximize-the-lifetime-value-of-your-mobile-app-users-b82e0c522f49) (Lifetime Value)
 * [HEART](https://medium.com/@onix_systems/matters-of-the-heart-how-to-measure-ui-and-ux-design-b7f29b77a711) (Happiness, Engagement, Adoption, Retention, Task Success)
   
-### 7. Launch
+### 7. Launch MVP
 
 How to launch the **MVP**. **Learn fast** and succeed.
 
@@ -101,7 +113,7 @@ How to launch the **MVP**. **Learn fast** and succeed.
 * [Code Prototypes](https://medium.com/@sagarajkt/free-platforms-to-create-prototyping-for-apps-or-web-design-ca70e902f7e2)
 * [Low, Medium, and High Fidelity Prototypes](http://designforuse.net/client-deliverables/how-to-choose-a-ux-prototyping-tool/)
 
-#### More interesting tools
+## More interesting tools
 
 (strategy)
 * [FlowMapp](https://www.flowmapp.com/) Full stack UX platform.
@@ -136,12 +148,12 @@ How to launch the **MVP**. **Learn fast** and succeed.
 * [Principle](http://principleformac.com) Design animated and interactive user interfaces.
 * [JustInMind](https://www.justinmind.com) From wireframes to highly interactive prototypes.
 
-#### UX Checklist
+## UX Checklist
 
 * [Checklist Design](https://www.checklist.design/) A collection of the best UX and UI practices.
 * [UX Project Checklist](https://uxchecklist.github.io/) Methods and methodologies, activities and tools.
 
-#### More interesting links
+## More interesting links
 
 * [UX Design Methods In A Mind Map](https://uxplanet.org/product-design-methods-mind-map-f6511820a7d5)
 * [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
@@ -150,7 +162,7 @@ How to launch the **MVP**. **Learn fast** and succeed.
 * [Curated list for UI/UX Designers](https://github.com/gregjw/ui-ux)
 * [UX_UI](https://github.com/alexUXUI/UX_UI)
 
-#### Reference
+## Reference
 
 * [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/course/ux-design/)
 ---

@@ -128,16 +128,19 @@ How to launch the **MVP**. **Learn fast** and succeed.
 * [Craft](https://craft.io/) Build intuitive Roadmaps, prioritize features, connect them with your dev teams.
 
 (validation)
+* [UXArmy](https://www.uxarmy.com/) Online usability testing platform.
+* [UserTesting](https://www.usertesting.com/) Leader in user research and software testing.
 * [Unbonce](https://unbounce.com/) Design Beautiful Landing Pages.
-* [Klickpages](https://klickpages.com.br/) Ferramenta para criar landing pages.
+* [Klickpages](https://klickpages.com.br/) Tool for create landing pages.
 * [OptimalSort](https://www.optimalworkshop.com/optimalsort/) Discover how people categorize information.
 * [Optimizely](https://www.optimizely.com/) Best-known tool for A/B testing.
 * [SurveyMonkey](https://www.surveymonkey.com/) Send and evaluate surveys quickly and easily.
 
 (metrics)
-* [Google Analytics](https://analytics.google.com/analytics/web/) Measure ans track your  sites and applications.
+* [UserZoom](https://www.userzoom.com/) Brands can test and measure UX on websites, apps, and prototypes.
 * [Delighted](https://delighted.com/) Measure and evaluate qualitative metrics.
 * [Hotjar](https://www.hotjar.com/) Website Heatmaps & Behavior Analytics Tools.
+* [Google Analytics](https://analytics.google.com/analytics/web/) Measure ans track your  sites and applications.
 
 (design and launch)
 * [Axure](https://www.axure.com/) Powerful Prototyping and Developer.

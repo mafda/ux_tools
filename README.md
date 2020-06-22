@@ -2,8 +2,8 @@
 
 User Experience - **UX** occurs when the **user** comes into **contact** with a **product**.
 
-* How to **listen** to the user and **extract** needs.
-* How to **create** products that people need.
+* How to **listen** to the user and **extract** needs?
+* How to **create** products that people need?
   
 ## Differences between UI and UX
 
@@ -12,11 +12,11 @@ User Experience - **UX** occurs when the **user** comes into **contact** with a 
 |                                          User Interface                                          |                                                           User Experience                                                           |
 |                What the user finds and sees when they arrive at a website or app                 |                                      Focuses on what the user perceives of the website or app                                       |
 |      Everything that allows you to interact with the website or app, from buttons to forms       | Focuses on whether the content was useful, whether the navigation was enriching, and whether it was easily manageable and intuitive |
-| Ensures that the website or app looks good and works well on all platforms: mobile, web, tablets |                                     Includes target research, psychology, design and marketing                                      |
+| Ensures that the website or app looks good and works well on all platforms: mobile, web, tablets |                                     Includes target research, psychology, design, and marketing                                     |
 
 ## UX Tools
 
-UX tools are important because you have got to have a **wide range of options** to help you create the things you need.
+UX tools are essential because you have got to have a **wide range of options** to help you create the things you need.
 
 ## UX Tools and Methods
 
@@ -83,7 +83,7 @@ How to **evaluate** the solution of the problems and **improve** the product.
 
 ### 5. Interface Design
 
-How to **transform** ideas into sketch, prototypes and products. **Usability** and utility.
+How to **transform** ideas into sketch, prototypes, and products. **Usability** and utility.
 
 * [Sketch](https://www.smashingmagazine.com/2011/12/the-messy-art-of-ux-sketching/)
 * [Prototypes](https://uxplanet.org/basics-of-prototyping-1a4106e12c0e)

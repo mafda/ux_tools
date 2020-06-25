@@ -168,5 +168,7 @@ How to launch the **MVP**. **Learn fast** and succeed.
 ## Reference
 
 * [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/course/ux-design/)
+* [UX — User Experience Tools](https://medium.com/@mafda_/ux-user-experience-tools-dcf48ba88797)
+* [Flowchart](https://whimsical.com/)
 ---
 made with 💙 by [mafda](https://mafda.github.io/)

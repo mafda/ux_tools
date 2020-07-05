@@ -7,12 +7,11 @@ User Experience - **UX** occurs when the **user** comes into **contact** with a 
   
 ## Differences between UI and UX
 
-|                                                UI                                                |                                                                 UX                                                                  |
-| :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-|                                          User Interface                                          |                                                           User Experience                                                           |
-|                What the user finds and sees when they arrive at a website or app                 |                                      Focuses on what the user perceives of the website or app                                       |
-|      Everything that allows you to interact with the website or app, from buttons to forms       | Focuses on whether the content was useful, whether the navigation was enriching, and whether it was easily manageable and intuitive |
-| Ensures that the website or app looks good and works well on all platforms: mobile, web, tablets |                                     Includes target research, psychology, design, and marketing                                     |
+| UI - User Interface                                                                              | UX - User Experience                                                                                                                |
+| :----------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
+| What the user finds and sees when they arrive at a website or app                                | Focuses on what the user perceives of the website or app                                                                            |
+| Everything that allows you to interact with the website or app, from buttons to forms            | Focuses on whether the content was useful, whether the navigation was enriching, and whether it was easily manageable and intuitive |
+| Ensures that the website or app looks good and works well on all platforms: mobile, web, tablets | Includes target research, psychology, design, and marketing                                                                         |
 
 ## UX Tools
 
@@ -116,6 +115,8 @@ How to launch the **MVP**. **Learn fast** and succeed.
 ## More interesting tools
 
 (strategy)
+* [UXpressia](https://uxpressia.com/) Visualize customer experience
+and collaborate with your team.
 * [FlowMapp](https://www.flowmapp.com/) Full stack UX platform.
 
 (ideas)

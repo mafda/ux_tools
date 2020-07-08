@@ -1,3 +1,22 @@
+**Table of Contents**
+
+- [UX - User Experience](#ux---user-experience)
+  - [Differences between UI and UX](#differences-between-ui-and-ux)
+  - [UX Tools](#ux-tools)
+  - [UX Tools and Methods](#ux-tools-and-methods)
+    - [1. Product strategy](#1-product-strategy)
+    - [2. Ideas Generation](#2-ideas-generation)
+    - [3. Planning and Development](#3-planning-and-development)
+    - [4. Validation and Research](#4-validation-and-research)
+    - [5. Interface Design](#5-interface-design)
+    - [6. Success Metrics](#6-success-metrics)
+    - [7. Launch MVP](#7-launch-mvp)
+  - [More interesting tools](#more-interesting-tools)
+  - [More interesting links](#more-interesting-links)
+  - [UX checklist](#ux-checklist)
+  - [Other repositories](#other-repositories)
+  - [Reference](#reference)
+
 # UX - User Experience
 
 User Experience - **UX** occurs when the **user** comes into **contact** with a **product**.
@@ -152,11 +171,6 @@ and collaborate with your team.
 * [Principle](http://principleformac.com) Design animated and interactive user interfaces.
 * [JustInMind](https://www.justinmind.com) From wireframes to highly interactive prototypes.
 
-## UX Checklist
-
-* [Checklist Design](https://www.checklist.design/) A collection of the best UX and UI practices.
-* [UX Project Checklist](https://uxchecklist.github.io/) Methods and methodologies, activities and tools.
-
 ## More interesting links
 
 * [UX Design Methods In A Mind Map](https://uxplanet.org/product-design-methods-mind-map-f6511820a7d5)
@@ -166,10 +180,21 @@ and collaborate with your team.
 * [Curated list for UI/UX Designers](https://github.com/gregjw/ui-ux)
 * [UX_UI](https://github.com/alexUXUI/UX_UI)
 
+## UX checklist
+
+* [Checklist Design](https://www.checklist.design/) A collection of the best UX and UI practices.
+* [UX Project Checklist](https://uxchecklist.github.io/) Methods and methodologies, activities and tools.
+
+## Other repositories
+
+* [Lean UX](https://github.com/mafda/ux_lean)
+* [Design Sprint](https://github.com/mafda/ux_design_sprint)
+
 ## Reference
 
 * [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/course/ux-design/)
 * [UX — User Experience Tools](https://medium.com/@mafda_/ux-user-experience-tools-dcf48ba88797)
 * [Flowchart](https://whimsical.com/)
+
 ---
 made with 💙 by [mafda](https://mafda.github.io/)

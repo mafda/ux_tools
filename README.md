@@ -137,6 +137,7 @@ How to launch the **MVP**. **Learn fast** and succeed.
 * [UXpressia](https://uxpressia.com/) Visualize customer experience
 and collaborate with your team.
 * [FlowMapp](https://www.flowmapp.com/) Full stack UX platform.
+* [Strategyzer](https://www.strategyzer.com/) Creators of the Business Model Canvas.
 
 (ideas)
 * [MoodBoard](http://www.gomoodboard.com/) Build beautiful, simple, free moodboards.

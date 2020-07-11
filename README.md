@@ -174,6 +174,7 @@ and collaborate with your team.
 
 ## More interesting links
 
+* [The 2020 UX Research Tools Map](https://www.userinterviews.com/blog/ux-research-tools-map-2020)
 * [UX Design Methods In A Mind Map](https://uxplanet.org/product-design-methods-mind-map-f6511820a7d5)
 * [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
 * [The Basic Principles of UX Design](https://medium.com/@riesdiansyah_64327/the-principles-of-ux-design-561c3a759e79)
